@@ -1,0 +1,4 @@
+1. Подключение CSS стилей - https://developer.wordpress.org/reference/functions/wp_enqueue_style/
+2. Регистрация CSS стилей - https://developer.wordpress.org/reference/functions/wp_register_style/
+3. Подключение JS - https://developer.wordpress.org/reference/functions/wp_enqueue_script/
+4. Регистрация JS скриптов - https://developer.wordpress.org/reference/functions/wp_register_script/
